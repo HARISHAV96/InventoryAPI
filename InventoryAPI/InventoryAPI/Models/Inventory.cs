@@ -49,7 +49,7 @@ namespace InventoryAPI.Models
     }
 }
 
-public enum Depti
+public enum Category
 {
     Seasonal,
     Maintenance,
